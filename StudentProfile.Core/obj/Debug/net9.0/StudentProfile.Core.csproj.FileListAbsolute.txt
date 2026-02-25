@@ -1,0 +1,11 @@
+C:\Projetos\StudentProfile\StudentProfile.Core\bin\Debug\net9.0\StudentProfile.Core.deps.json
+C:\Projetos\StudentProfile\StudentProfile.Core\bin\Debug\net9.0\StudentProfile.Core.dll
+C:\Projetos\StudentProfile\StudentProfile.Core\bin\Debug\net9.0\StudentProfile.Core.pdb
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.AssemblyInfoInputs.cache
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.AssemblyInfo.cs
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.dll
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\refint\StudentProfile.Core.dll
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\StudentProfile.Core.pdb
+C:\Projetos\StudentProfile\StudentProfile.Core\obj\Debug\net9.0\ref\StudentProfile.Core.dll
