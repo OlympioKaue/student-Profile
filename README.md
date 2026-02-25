@@ -36,5 +36,5 @@ Email: teste@gmail.com
 Saída:
 
   ```sh
-https://instragram.com//teste
+https://instragram.com/teste
    ```
